@@ -1,0 +1,2 @@
+meeting was conductedgiving some basic ideas about pyhton and cleared the doubts
+and give some tasks related to linux Os and Linux Commands
